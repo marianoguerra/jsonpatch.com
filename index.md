@@ -10,6 +10,8 @@ The patch documents are themselves JSON documents.
 
 JSON Patch is specified in [RFC 6902](http://tools.ietf.org/html/rfc6902) from the IETF.
 
+The Internet media type for a JSON Patch document is **application/json-patch+json**
+
 ## Simple example
 
 ### The original document
